@@ -6,6 +6,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 
 ## Table of Contents: Build your own X
 * blockchain dev: https://jeiwan.net/
+* [Load Balance with Go](https://kasvith.me/posts/lets-create-a-simple-lb-go/)
 * [3D Renderer](#build-your-own-3d-renderer)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
